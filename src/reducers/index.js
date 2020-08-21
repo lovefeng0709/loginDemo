@@ -1,6 +1,6 @@
 import {combineReducers} from 'redux'
-import auth from './auth'
+import signUpData from './signUpData'
 const rootReducers = combineReducers({
-    auth
+    signUpData
 })
 export default rootReducers
